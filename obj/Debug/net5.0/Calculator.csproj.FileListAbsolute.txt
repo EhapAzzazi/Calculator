@@ -1,0 +1,32 @@
+D:\New Course\Calculator\Calculator\bin\Debug\net5.0\Calculator.exe
+D:\New Course\Calculator\Calculator\bin\Debug\net5.0\Calculator.deps.json
+D:\New Course\Calculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+D:\New Course\Calculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+D:\New Course\Calculator\Calculator\bin\Debug\net5.0\Calculator.dll
+D:\New Course\Calculator\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+D:\New Course\Calculator\Calculator\bin\Debug\net5.0\Calculator.pdb
+D:\New Course\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+D:\New Course\Calculator\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Course\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+D:\New Course\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+D:\New Course\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+D:\New Course\Calculator\Calculator\obj\Debug\net5.0\Calculator.dll
+D:\New Course\Calculator\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+D:\New Course\Calculator\Calculator\obj\Debug\net5.0\Calculator.pdb
+D:\New Course\Calculator\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
+D:\GitHub\Calculator\bin\Debug\net5.0\Calculator.exe
+D:\GitHub\Calculator\bin\Debug\net5.0\Calculator.deps.json
+D:\GitHub\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+D:\GitHub\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+D:\GitHub\Calculator\bin\Debug\net5.0\Calculator.dll
+D:\GitHub\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+D:\GitHub\Calculator\bin\Debug\net5.0\Calculator.pdb
+D:\GitHub\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+D:\GitHub\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+D:\GitHub\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+D:\GitHub\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+D:\GitHub\Calculator\obj\Debug\net5.0\Calculator.dll
+D:\GitHub\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+D:\GitHub\Calculator\obj\Debug\net5.0\Calculator.pdb
+D:\GitHub\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
